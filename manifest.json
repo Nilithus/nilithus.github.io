@@ -1,0 +1,7 @@
+{
+  "name": "Tippy",
+  "short_name": "Tippy",
+  "lang": "en-CA",
+  "start_url": "/",
+  "display": "standalone"
+}
